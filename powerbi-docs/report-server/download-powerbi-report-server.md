@@ -7,7 +7,7 @@ ms.reviewer: kfollis
 ms.service: powerbi
 ms.subservice: powerbi-report-server
 ms.topic: conceptual
-ms.date: 01/08/2025
+ms.date: 11/07/2025
 keywords:
   - "install pbirs, download pbirs, latest pbirs"
   - "Power BI Report Server"
